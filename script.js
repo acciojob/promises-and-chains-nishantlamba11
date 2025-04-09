@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let form=document.querySelector(form)
+let form=document.querySelector(".form")
 let ageinput=document.querySelector("#age");
 let nameinput=document.querySelector("#name");
 let btn=document.querySelector("#btn");
